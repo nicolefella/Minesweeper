@@ -1,4 +1,4 @@
 Minesweeper
 ===========
 
-Minesweeper programmed in Java for use in terminal
+Minesweeper programmed in Java with command-line application. 
